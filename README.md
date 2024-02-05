@@ -1,4 +1,4 @@
-# 📂 Basic Projects
+# 📂 Mini Projects
 Calculator made with tkinter ➡ [Calculator](https://github.com/enesscakmak/calculator-tkinter)  
 Reminder app using tkinter ➡ [Reminder](https://github.com/enesscakmak/reminder-tkinter)  
 Card Creator ➡ [Card Creator](https://github.com/enesscakmak/card-creator)  
